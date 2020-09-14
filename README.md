@@ -9,7 +9,7 @@ Workshop attendees had access to computing resources courtesy of <a href="https:
 The acoustics tutorial was lead by Danelle Cline and John Ryan of the <a href="https://www.mbari.org/">Monterey Bay Aquarium Research Institute</a>. The Python based materials focus on passive acoustic monitoring of cetaceans with deep learning methods 
 
 ## <a href="https://github.com/trtcrd/POGO_ML_workshop_genomics">Genomics</a>
-Tristan Cordier of the <a href="https://genev.unige.ch/">University of Geneva</a> and Anders Lanz&eacute;n of <a href="https://www.azti.es/">AZTI-Tecnalia</a> organized the genomics tutorial. Machine learning techniques for working with metabarcoding and metagenomic data are illustrated using code written in R. Techniques covered include logisitic regression, randon forests, and support vector machines. 
+Tristan Cordier of the <a href="https://genev.unige.ch/">University of Geneva</a> and Anders Lanz&eacute;n of <a href="https://www.azti.es/">AZTI-Tecnalia</a> organized the genomics tutorial. Machine learning techniques for working with metabarcoding and metagenomic data are illustrated using code written in R. Techniques covered include logisitic regression, random forests, and support vector machines. 
 
 ## <a href="https://github.com/eor314/pogo_bioobs19_imaging">Imaging</a>
 Eric Orenstein of the <a href="https://scripps.ucsd.edu">Scripps Institution of Oceanography</a> and Simon-Martin Schr&ouml;er of <a href="http://www.inf.uni-kiel.de">Kiel University</a> produced a series of Jupyter notebooks written in Python. <emph>In situ</emph> images of marine plankton were used to illustrate a variety of concepts from region finding to classification with deep learning. 
